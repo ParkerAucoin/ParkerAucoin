@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @ParkerAucoin
-- 👀 I’m interested in Front End Web Developement
-- 🌱 I’m currently learning Django, SASS, and React.js
+- 👀 I’m interested in AI and Mobile Developement
+- 🌱 I’m currently learning Java and Mobile Developement
