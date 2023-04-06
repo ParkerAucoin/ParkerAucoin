@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @ParkerAucoin
-- 👀 I’m interested in AI and Mobile Developement
+- 👀 I’m interested in AI, Automation and Mobile Developement
 - 🌱 I’m currently learning Java and Mobile Developement
